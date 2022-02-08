@@ -50,3 +50,12 @@ http://127.0.0.1:5000/english
 ```python
 http://127.0.0.1:5000/spanish
 ```
+
+### Paylod
+Mandamos um JSON com tex1 e text2
+```python
+{
+    "text1": "texto para comparar",
+    "text2": "TEXTO PARA COMPARAR"
+}
+```
